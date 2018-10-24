@@ -1,0 +1,137 @@
+/* font-family: 'Open Sans', sans-serif; */
+
+.my-nav{
+  background-color: transparent;
+  border-style: none;
+  border-radius: 0;
+  margin-bottom: 0;
+  color: white;
+  /* position: absolute; */
+}
+.navbar-default .navbar-nav>li:hover{
+  background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a:focus {
+  background-color: transparent;
+}
+.logo-small{
+  width: 150px;
+  float: none;
+}
+.navbar-right{
+  color: transparent;
+}
+.navbar-footer{
+  background-color: #4A4A4A;
+    margin-bottom: 0;
+}
+
+.navbar-footer ul {
+  /* width: 100%; */
+  margin-left: 25%;
+
+}
+
+.navbar-footer ul>li  {
+  margin-right: 5%;
+}
+.navbar-footer ul>li a {
+  color: white;
+}
+.navbar-footer ul>li {
+  margin: 2%;
+}
+.my-page {
+  margin-left: 3%;
+  margin-right: 3%;
+
+}
+
+.jumbotron{
+
+}
+.my-jumbo{
+  background-image: url("../images/jumbotron_img.png");
+  background-repeat: no-repeat;
+  height: 745px;
+  background-position: center center;
+  padding-top: 1%;
+}
+
+  .my-jumbo h1{
+    color: white;
+
+  }
+  .my-jumbo p{
+  color: white;
+  text-align: center;
+  }
+.app-button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+  width: 250px;
+}
+
+.my-app-dwn-pos {
+  margin: 0 20%;
+}
+
+
+.br-whtspc{
+  margin-top: 20px;
+}
+
+.blg-img{
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.bttn{
+  width: 130px;
+  height: 45px;
+  border-radius: 5px;
+  color: white;
+  display: block;
+  margin: 30px auto;
+  background-color: #E28B36;
+  border-color: #E28B36;
+
+}
+.contact-1 {
+  margin: 2%
+}
+.app-dwn{
+  /* ECECED */
+  background-color: #CACACA;
+  line-height: 250%;
+}
+
+.my-contact-bg {
+  background-color: #358183
+}
+.nav-header {
+  ;
+}
+.main-text {
+  margin-top: 10%;
+}
+.navbar-default .navbar-nav>li>a{
+  color: white;
+}
+.meet-text {
+  line-height: 200%;
+}
+.intro {
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.blog-col {
+  line-height: 200%;
+}
+.text-muted {
+  color: white;
+}
